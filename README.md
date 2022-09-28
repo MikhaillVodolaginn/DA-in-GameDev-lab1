@@ -51,18 +51,22 @@
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.32.50.png?raw=true)
 
 - Инициализация и модель итеративной оптимизации
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.36.12.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.39.09.png?raw=true)
 
 - 2 итерации
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.44.32.png?raw=true)
 
 - 3 итерации
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.46.50.png?raw=true)
 
 - 4 итерации
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.47.09.png?raw=true)
 
 - 5 итераций
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.49.05.png?raw=true)
 
 - 10000 итераций
-
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2017.08.40.png?raw=true)
 
 ## Задание 3
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных?
