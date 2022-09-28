@@ -39,6 +39,7 @@
 
 ## Задание 1
 - Hello, world в google colab
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
 - Hello, world в unity
 
 ## Задание 2
