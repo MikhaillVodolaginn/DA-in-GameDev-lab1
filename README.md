@@ -51,6 +51,7 @@
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.32.50.png?raw=true)
 
 - Инициализация и модель итеративной оптимизации
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.36.12.png?raw=true)
 
 - 2 итерации
 
